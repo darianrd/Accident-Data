@@ -1,0 +1,466 @@
+,state,city,county,year,day_of_week,hospital,lighting,population_type,weather,fatalities
+0,Utah,EAST CARBON CITY,CARBON (7),2022,Sunday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Friday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,ROY,WEBER (57),2022,Thursday,1,Daylight,Urban,Rain,1
+0,Utah,OGDEN,WEBER (57),2022,Tuesday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SCIPIO,MILLARD (27),2022,Wednesday,0,Daylight,Rural,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Thursday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,KEARNS,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,2
+0,Utah,SPANISH FORK,UTAH (49),2022,Wednesday,1,Daylight,Rural,Rain,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,GREEN RIVER,EMERY (15),2022,Wednesday,0,Daylight,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,VERNAL,UINTAH (47),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,PAYSON,UTAH (49),2022,Tuesday,0,Daylight,Urban,Cloudy,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,0,Dark - Not Lighted,Urban,"Fog, Smog, Smoke",1
+0,Utah,SALINA,SEVIER (41),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Cloudy,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Saturday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WEST HAVEN,WEBER (57),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,MIDVALE,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Clear,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,RIVERDALE,WEBER (57),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,ROY,WEBER (57),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Saturday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,CEDAR CITY,IRON (21),2022,Monday,0,Dawn,Urban,Clear,1
+0,Utah,MIDVALE,SALT LAKE (35),2022,Wednesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Saturday,0,Daylight,Urban,Clear,1
+0,Utah,DUGWAY PROVING GROUND,TOOELE (45),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,IBAPAH,TOOELE (45),2022,Sunday,1,Dark - Not Lighted,Rural,Blowing Snow,1
+0,Utah,LAYTON,DAVIS (11),2022,Monday,1,Daylight,Urban,Cloudy,1
+0,Utah,RICHFIELD,SEVIER (41),2022,Sunday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,NORTH SALT LAKE,DAVIS (11),2022,Sunday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,2
+0,Utah,Other,GRAND (19),2022,Thursday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Sunday,0,Dark - Not Lighted,Rural,Clear,2
+0,Utah,FARMINGTON,DAVIS (11),2022,Tuesday,0,Daylight,Urban,Clear,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Friday,1,Dark - Not Lighted,Urban,Rain,1
+0,Utah,Other,TOOELE (45),2022,Tuesday,1,Daylight,Rural,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Friday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,LEHI,UTAH (49),2022,Friday,1,Daylight,Urban,Cloudy,1
+0,Utah,GREEN RIVER,EMERY (15),2022,Sunday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,TAYLORSVILLE,SALT LAKE (35),2022,Thursday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Tuesday,1,Dawn,Urban,Cloudy,1
+0,Utah,CORINNE,BOX ELDER (3),2022,Friday,1,Dark - Not Lighted,Rural,Clear,2
+0,Utah,IVINS,WASHINGTON (53),2022,Sunday,1,Daylight,Rural,Clear,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Wednesday,0,Dark - Lighted,Urban,Snow,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Cloudy,1
+0,Utah,AMERICAN FORK,UTAH (49),2022,Tuesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,LAYTON,DAVIS (11),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,Other,SUMMIT (43),2022,Thursday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,WEST BOUNTIFUL,DAVIS (11),2022,Monday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,2
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Rain,1
+0,Utah,IVINS,WASHINGTON (53),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Tuesday,0,Daylight,Urban,Cloudy,1
+0,Utah,WASHINGTON,WASHINGTON (53),2022,Saturday,1,Daylight,Urban,Clear,2
+0,Utah,SPANISH FORK,UTAH (49),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,CEDAR CITY,IRON (21),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,GRANTSVILLE,TOOELE (45),2022,Saturday,0,Dawn,Rural,Clear,1
+0,Utah,SALEM,UTAH (49),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,PRICE,CARBON (7),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,TAYLORSVILLE,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Cloudy,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Thursday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,HEBER CITY,WASATCH (51),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,PEOA,SUMMIT (43),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,LEHI,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Sunday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,HOWELL,BOX ELDER (3),2022,Friday,1,Daylight,Rural,Cloudy,1
+0,Utah,UINTAH,WEBER (57),2022,Tuesday,0,Dark - Not Lighted,Urban,Severe Crosswinds,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Monday,1,Daylight,Urban,Cloudy,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Friday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,HEBER CITY,WASATCH (51),2022,Monday,1,Dark - Lighted,Urban,Cloudy,1
+0,Utah,OREM,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,CEDAR FORT,UTAH (49),2022,Friday,1,Daylight,Rural,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,HELPER,CARBON (7),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,NORTH OGDEN,WEBER (57),2022,Saturday,1,Dark - Not Lighted,Urban,Severe Crosswinds,2
+0,Utah,DRAPER,SALT LAKE (35),2022,Thursday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,BRYCE CANYON,GARFIELD (17),2022,Monday,1,Daylight,Rural,Clear,2
+0,Utah,MURRAY,SALT LAKE (35),2022,Wednesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,BLUEBELL,DUCHESNE (13),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Friday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,CENTERVILLE,DAVIS (11),2022,Saturday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,MARRIOTT,WEBER (57),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,HILDALE,WASHINGTON (53),2022,Monday,1,Daylight,Rural,Clear,1
+0,Utah,MANTI,SANPETE (39),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,FAYETTE,SANPETE (39),2022,Friday,1,Daylight,Rural,Clear,1
+0,Utah,Other,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SOUTH OGDEN,WEBER (57),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,MONTEZUMA CREEK,SAN JUAN (37),2022,Saturday,1,Daylight,Rural,Cloudy,1
+0,Utah,RIVERTON,SALT LAKE (35),2022,Friday,1,Dusk,Urban,Clear,1
+0,Utah,COTTONWOOD,SALT LAKE (35),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,Other,UTAH (49),2022,Saturday,1,Daylight,Rural,Cloudy,2
+0,Utah,WEST HAVEN,WEBER (57),2022,Wednesday,1,Dark - Not Lighted,Urban,Snow,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Clear,1
+0,Utah,VIRGIN,WASHINGTON (53),2022,Sunday,1,Daylight,Rural,Clear,2
+0,Utah,CENTERVILLE,DAVIS (11),2022,Saturday,0,Dusk,Urban,Clear,1
+0,Utah,NAPLES,UINTAH (47),2022,Tuesday,1,Dawn,Rural,Clear,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,CHARLESTON,WASATCH (51),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,SEVIER,SEVIER (41),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,OAKLEY,SUMMIT (43),2022,Wednesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Cloudy,1
+0,Utah,FAIRVIEW,SANPETE (39),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,PARAGONAH,IRON (21),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,0,Daylight,Urban,Cloudy,1
+0,Utah,RANDOLPH,RICH (33),2022,Sunday,0,Daylight,Rural,Clear,1
+0,Utah,TEASDALE,WAYNE (55),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,HURRICANE,WASHINGTON (53),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,BLUFFDALE,SALT LAKE (35),2022,Monday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,NORTH SALT LAKE,DAVIS (11),2022,Thursday,1,Daylight,Urban,Cloudy,1
+0,Utah,THOMPSON SPRINGS,GRAND (19),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,WASHINGTON,WASHINGTON (53),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Clear,1
+0,Utah,MOUNT PLEASANT,SANPETE (39),2022,Sunday,0,Daylight,Rural,Cloudy,1
+0,Utah,BEAVER,BEAVER (1),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,WEST BOUNTIFUL,DAVIS (11),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,PARAGONAH,IRON (21),2022,Wednesday,1,Daylight,Rural,Clear,1
+0,Utah,LEHI,UTAH (49),2022,Thursday,1,Dark - Lighted,Urban,Clear,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Sunday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,MOUNTAIN GREEN,MORGAN (29),2022,Thursday,1,Daylight,Rural,Cloudy,1
+0,Utah,SOLDIER SUMMIT,WASATCH (51),2022,Friday,1,Daylight,Rural,Cloudy,2
+0,Utah,LEHI,UTAH (49),2022,Friday,0,Daylight,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,0,Daylight,Urban,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Wednesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,Other,WEBER (57),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Sunday,1,Dark - Lighted,Urban,Rain,1
+0,Utah,HUNTINGTON,EMERY (15),2022,Saturday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,SUNSET,DAVIS (11),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Sunday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Daylight,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,2
+0,Utah,HERRIMAN,SALT LAKE (35),2022,Wednesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MOUNTAIN GREEN,MORGAN (29),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,RICHFIELD,SEVIER (41),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,ROOSEVELT,DUCHESNE (13),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Saturday,1,Dark - Not Lighted,Rural,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,LAKEPOINT,TOOELE (45),2022,Sunday,0,Daylight,Rural,Severe Crosswinds,1
+0,Utah,Other,SAN JUAN (37),2022,Saturday,1,Daylight,Rural,Cloudy,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,GREEN RIVER,GRAND (19),2022,Wednesday,1,Daylight,Rural,Cloudy,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Cloudy,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Monday,0,Dawn,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Cloudy,1
+0,Utah,SPANISH FORK,UTAH (49),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,BEAVER,BEAVER (1),2022,Saturday,1,Daylight,Rural,Rain,1
+0,Utah,ROY,WEBER (57),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,HERRIMAN,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MOAB,GRAND (19),2022,Saturday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,THOMPSON SPRINGS,GRAND (19),2022,Sunday,1,Daylight,Rural,Rain,1
+0,Utah,LAYTON,DAVIS (11),2022,Wednesday,1,Daylight,Urban,Cloudy,1
+0,Utah,CORINNE,BOX ELDER (3),2022,Monday,0,Daylight,Rural,Cloudy,1
+0,Utah,PARAGONAH,IRON (21),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,VERNAL,UINTAH (47),2022,Saturday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,DELTA,MILLARD (27),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Tuesday,0,Daylight,Urban,Clear,1
+0,Utah,Other,WASATCH (51),2022,Monday,1,Daylight,Rural,Clear,1
+0,Utah,OREM,UTAH (49),2022,Monday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,PLEASANT VIEW,WEBER (57),2022,Tuesday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,Other,UTAH (49),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,HURRICANE,WASHINGTON (53),2022,Thursday,0,Dusk,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Tuesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,MANILA,DAGGETT (9),2022,Friday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,ELWOOD,BOX ELDER (3),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Monday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,MOAB,GRAND (19),2022,Wednesday,1,Daylight,Urban,Rain,1
+0,Utah,DELTA,MILLARD (27),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,ELWOOD,BOX ELDER (3),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,MEXICAN HAT,SAN JUAN (37),2022,Friday,0,Daylight,Rural,Cloudy,1
+0,Utah,RANDLETT,UINTAH (47),2022,Saturday,0,Dark - Not Lighted,Rural,Cloudy,1
+0,Utah,OREM,UTAH (49),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SPANISH FORK,UTAH (49),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,LA SAL,SAN JUAN (37),2022,Wednesday,1,Daylight,Rural,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,NEPHI,JUAB (23),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,EPHRAIM,SANPETE (39),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,EAST CARBON CITY,CARBON (7),2022,Sunday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Friday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,ROY,WEBER (57),2022,Thursday,1,Daylight,Urban,Rain,1
+0,Utah,OGDEN,WEBER (57),2022,Tuesday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SCIPIO,MILLARD (27),2022,Wednesday,0,Daylight,Rural,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Thursday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,KEARNS,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,2
+0,Utah,Other,UTAH (49),2022,Monday,0,Daylight,Rural,Clear,1
+0,Utah,SPANISH FORK,UTAH (49),2022,Wednesday,1,Daylight,Rural,Rain,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,GREEN RIVER,EMERY (15),2022,Wednesday,0,Daylight,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,BERYL,IRON (21),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,VERNAL,UINTAH (47),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,PAYSON,UTAH (49),2022,Tuesday,0,Daylight,Urban,Cloudy,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,0,Dark - Not Lighted,Urban,"Fog, Smog, Smoke",1
+0,Utah,SALINA,SEVIER (41),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Cloudy,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Saturday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WEST HAVEN,WEBER (57),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,MIDVALE,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Clear,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,RIVERDALE,WEBER (57),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,ROY,WEBER (57),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Saturday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,CEDAR CITY,IRON (21),2022,Monday,0,Dawn,Urban,Clear,1
+0,Utah,MIDVALE,SALT LAKE (35),2022,Wednesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Saturday,0,Daylight,Urban,Clear,1
+0,Utah,DUGWAY PROVING GROUND,TOOELE (45),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,IBAPAH,TOOELE (45),2022,Sunday,1,Dark - Not Lighted,Rural,Blowing Snow,1
+0,Utah,LAYTON,DAVIS (11),2022,Monday,1,Daylight,Urban,Cloudy,1
+0,Utah,RICHFIELD,SEVIER (41),2022,Sunday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,NORTH SALT LAKE,DAVIS (11),2022,Sunday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,2
+0,Utah,Other,GRAND (19),2022,Thursday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Sunday,0,Dark - Not Lighted,Rural,Clear,2
+0,Utah,DRAPER,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Friday,1,Dark - Not Lighted,Urban,Rain,1
+0,Utah,Other,TOOELE (45),2022,Tuesday,1,Daylight,Rural,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Friday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,LEHI,UTAH (49),2022,Friday,1,Daylight,Urban,Cloudy,1
+0,Utah,GREEN RIVER,EMERY (15),2022,Sunday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,TAYLORSVILLE,SALT LAKE (35),2022,Thursday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Tuesday,1,Dawn,Urban,Cloudy,1
+0,Utah,Other,UTAH (49),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,CORINNE,BOX ELDER (3),2022,Friday,1,Dark - Not Lighted,Rural,Clear,2
+0,Utah,IVINS,WASHINGTON (53),2022,Sunday,1,Daylight,Rural,Clear,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Wednesday,0,Dark - Lighted,Urban,Snow,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Cloudy,1
+0,Utah,AMERICAN FORK,UTAH (49),2022,Tuesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,LAYTON,DAVIS (11),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,Other,SUMMIT (43),2022,Thursday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,WEST BOUNTIFUL,DAVIS (11),2022,Monday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,2
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Rain,1
+0,Utah,IVINS,WASHINGTON (53),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Tuesday,0,Daylight,Urban,Cloudy,1
+0,Utah,WASHINGTON,WASHINGTON (53),2022,Saturday,1,Daylight,Urban,Clear,2
+0,Utah,SPANISH FORK,UTAH (49),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,CEDAR CITY,IRON (21),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,GRANTSVILLE,TOOELE (45),2022,Saturday,0,Dawn,Rural,Clear,1
+0,Utah,SALEM,UTAH (49),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,PRICE,CARBON (7),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,TAYLORSVILLE,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Cloudy,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Thursday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,HEBER CITY,WASATCH (51),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,PEOA,SUMMIT (43),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,LEHI,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Sunday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,HOWELL,BOX ELDER (3),2022,Friday,1,Daylight,Rural,Cloudy,1
+0,Utah,UINTAH,WEBER (57),2022,Tuesday,0,Dark - Not Lighted,Urban,Severe Crosswinds,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Monday,1,Daylight,Urban,Cloudy,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Friday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,HEBER CITY,WASATCH (51),2022,Monday,1,Dark - Lighted,Urban,Cloudy,1
+0,Utah,OREM,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,EAGLE MOUNTAIN,UTAH (49),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,CEDAR FORT,UTAH (49),2022,Friday,1,Daylight,Rural,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,HELPER,CARBON (7),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,NORTH OGDEN,WEBER (57),2022,Saturday,1,Dark - Not Lighted,Urban,Severe Crosswinds,2
+0,Utah,DRAPER,SALT LAKE (35),2022,Thursday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,BRYCE CANYON,GARFIELD (17),2022,Monday,1,Daylight,Rural,Clear,2
+0,Utah,MURRAY,SALT LAKE (35),2022,Wednesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,BLUEBELL,DUCHESNE (13),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Friday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,CENTERVILLE,DAVIS (11),2022,Saturday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WENDOVER,TOOELE (45),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,MARRIOTT,WEBER (57),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,HILDALE,WASHINGTON (53),2022,Monday,1,Daylight,Rural,Clear,1
+0,Utah,MANTI,SANPETE (39),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,FAYETTE,SANPETE (39),2022,Friday,1,Daylight,Rural,Clear,1
+0,Utah,Other,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SOUTH OGDEN,WEBER (57),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,MONTEZUMA CREEK,SAN JUAN (37),2022,Saturday,1,Daylight,Rural,Cloudy,1
+0,Utah,RIVERTON,SALT LAKE (35),2022,Friday,1,Dusk,Urban,Clear,1
+0,Utah,COTTONWOOD,SALT LAKE (35),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,Other,UTAH (49),2022,Saturday,1,Daylight,Rural,Cloudy,2
+0,Utah,GOSHEN,UTAH (49),2022,Thursday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,WEST HAVEN,WEBER (57),2022,Wednesday,1,Dark - Not Lighted,Urban,Snow,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,VIRGIN,WASHINGTON (53),2022,Sunday,1,Daylight,Rural,Clear,2
+0,Utah,SOUTH JORDAN,SALT LAKE (35),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,CENTERVILLE,DAVIS (11),2022,Saturday,0,Dusk,Urban,Clear,1
+0,Utah,NAPLES,UINTAH (47),2022,Tuesday,1,Dawn,Rural,Clear,1
+0,Utah,PARK CITY,SUMMIT (43),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,CHARLESTON,WASATCH (51),2022,Saturday,0,Daylight,Rural,Clear,1
+0,Utah,SEVIER,SEVIER (41),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,OAKLEY,SUMMIT (43),2022,Wednesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Cloudy,1
+0,Utah,FAIRVIEW,SANPETE (39),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,PARAGONAH,IRON (21),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,0,Daylight,Urban,Cloudy,1
+0,Utah,RANDOLPH,RICH (33),2022,Sunday,0,Daylight,Rural,Clear,1
+0,Utah,TEASDALE,WAYNE (55),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,HURRICANE,WASHINGTON (53),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,BLUFFDALE,SALT LAKE (35),2022,Monday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,OREM,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,NORTH SALT LAKE,DAVIS (11),2022,Thursday,1,Daylight,Urban,Cloudy,1
+0,Utah,THOMPSON SPRINGS,GRAND (19),2022,Friday,0,Daylight,Rural,Clear,1
+0,Utah,WASHINGTON,WASHINGTON (53),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Clear,1
+0,Utah,MOUNT PLEASANT,SANPETE (39),2022,Sunday,0,Daylight,Rural,Cloudy,1
+0,Utah,BEAVER,BEAVER (1),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,WEST BOUNTIFUL,DAVIS (11),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,PARAGONAH,IRON (21),2022,Wednesday,1,Daylight,Rural,Clear,1
+0,Utah,LEHI,UTAH (49),2022,Thursday,1,Dark - Lighted,Urban,Clear,2
+0,Utah,ST. GEORGE,WASHINGTON (53),2022,Sunday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,COTTONWOOD,SALT LAKE (35),2022,Monday,1,Daylight,Rural,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,SOLDIER SUMMIT,WASATCH (51),2022,Friday,1,Daylight,Rural,Cloudy,2
+0,Utah,LEHI,UTAH (49),2022,Friday,0,Daylight,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Thursday,0,Daylight,Urban,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Wednesday,0,Dark - Lighted,Urban,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,Other,WEBER (57),2022,Monday,0,Daylight,Urban,Clear,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Sunday,1,Dark - Lighted,Urban,Rain,1
+0,Utah,HUNTINGTON,EMERY (15),2022,Saturday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,SUNSET,DAVIS (11),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Sunday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Daylight,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Monday,1,Daylight,Urban,Clear,2
+0,Utah,HERRIMAN,SALT LAKE (35),2022,Wednesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MOUNTAIN GREEN,MORGAN (29),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,RICHFIELD,SEVIER (41),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,ROOSEVELT,DUCHESNE (13),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,CLEARFIELD,DAVIS (11),2022,Saturday,1,Daylight,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Saturday,1,Dark - Not Lighted,Rural,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,LAKEPOINT,TOOELE (45),2022,Sunday,0,Daylight,Rural,Severe Crosswinds,1
+0,Utah,Other,SAN JUAN (37),2022,Saturday,1,Daylight,Rural,Cloudy,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,GREEN RIVER,GRAND (19),2022,Wednesday,1,Daylight,Rural,Cloudy,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Tuesday,1,Daylight,Urban,Cloudy,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Monday,0,Dawn,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,0,Daylight,Urban,Cloudy,1
+0,Utah,SPANISH FORK,UTAH (49),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,BEAVER,BEAVER (1),2022,Saturday,1,Daylight,Rural,Rain,1
+0,Utah,ROY,WEBER (57),2022,Monday,1,Daylight,Urban,Clear,1
+0,Utah,HERRIMAN,SALT LAKE (35),2022,Tuesday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,MOAB,GRAND (19),2022,Saturday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,THOMPSON SPRINGS,GRAND (19),2022,Sunday,1,Daylight,Rural,Rain,1
+0,Utah,LAYTON,DAVIS (11),2022,Wednesday,1,Daylight,Urban,Cloudy,1
+0,Utah,CORINNE,BOX ELDER (3),2022,Monday,0,Daylight,Rural,Cloudy,1
+0,Utah,PARAGONAH,IRON (21),2022,Thursday,0,Daylight,Rural,Cloudy,1
+0,Utah,VERNAL,UINTAH (47),2022,Saturday,0,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,DELTA,MILLARD (27),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Tuesday,0,Daylight,Urban,Clear,1
+0,Utah,Other,WASATCH (51),2022,Monday,1,Daylight,Rural,Clear,1
+0,Utah,OREM,UTAH (49),2022,Monday,1,Dark - Not Lighted,Urban,Clear,1
+0,Utah,PROVO,UTAH (49),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,PLEASANT VIEW,WEBER (57),2022,Tuesday,1,Dark - Not Lighted,Urban,Cloudy,1
+0,Utah,Other,UTAH (49),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,HURRICANE,WASHINGTON (53),2022,Thursday,0,Dusk,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Tuesday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,MANILA,DAGGETT (9),2022,Friday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Thursday,0,Daylight,Rural,Clear,1
+0,Utah,SOUTH SALT LAKE,SALT LAKE (35),2022,Saturday,1,Daylight,Urban,Cloudy,1
+0,Utah,ELWOOD,BOX ELDER (3),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,BIG WATER,KANE (25),2022,Monday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,PLEASANT GROVE,UTAH (49),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,MOAB,GRAND (19),2022,Wednesday,1,Daylight,Urban,Rain,1
+0,Utah,DELTA,MILLARD (27),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,ELWOOD,BOX ELDER (3),2022,Friday,1,Daylight,Urban,Clear,1
+0,Utah,TOOELE,TOOELE (45),2022,Sunday,1,Daylight,Urban,Clear,1
+0,Utah,LOGAN,CACHE (5),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,MEXICAN HAT,SAN JUAN (37),2022,Friday,0,Daylight,Rural,Cloudy,1
+0,Utah,RANDLETT,UINTAH (47),2022,Saturday,0,Dark - Not Lighted,Rural,Cloudy,1
+0,Utah,OREM,UTAH (49),2022,Sunday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,SPANISH FORK,UTAH (49),2022,Monday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,LA SAL,SAN JUAN (37),2022,Wednesday,1,Daylight,Rural,Cloudy,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,1,Daylight,Rural,Clear,1
+0,Utah,NEPHI,JUAB (23),2022,Tuesday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,SANDY CITY,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,EPHRAIM,SANPETE (39),2022,Saturday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,ROY,WEBER (57),2022,Monday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,WEST JORDAN,SALT LAKE (35),2022,Saturday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,OGDEN,WEBER (57),2022,Tuesday,1,Daylight,Urban,Clear,1
+0,Utah,FERRON,EMERY (15),2022,Sunday,1,Dark - Not Lighted,Rural,Clear,1
+0,Utah,HEBER CITY,WASATCH (51),2022,Wednesday,1,Daylight,Rural,Snow,1
+0,Utah,WEST VALLEY CITY,SALT LAKE (35),2022,Monday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,SYRACUSE,DAVIS (11),2022,Monday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,LEHI,UTAH (49),2022,Sunday,0,Daylight,Urban,Clear,2
+0,Utah,Other,KANE (25),2022,Friday,1,Daylight,Rural,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Wednesday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,MURRAY,SALT LAKE (35),2022,Thursday,1,Daylight,Urban,Clear,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Saturday,0,Daylight,Urban,Cloudy,2
+0,Utah,LEHI,UTAH (49),2022,Saturday,0,Dark - Not Lighted,Urban,Clear,1
+0,Utah,CENTERVILLE,DAVIS (11),2022,Wednesday,1,Daylight,Urban,Rain,1
+0,Utah,DRAPER,SALT LAKE (35),2022,Friday,0,Dark - Lighted,Urban,Clear,1
+0,Utah,CISCO,GRAND (19),2022,Friday,1,Daylight,Rural,Sleet or Hail,1
+0,Utah,LOGAN,CACHE (5),2022,Monday,1,Dark - Not Lighted,Urban,Snow,1
+0,Utah,SPRINGVILLE,UTAH (49),2022,Tuesday,1,Dawn,Urban,Rain,1
+0,Utah,LAKETOWN,RICH (33),2022,Wednesday,1,Dark - Not Lighted,Rural,Cloudy,2
+0,Utah,MURRAY,SALT LAKE (35),2022,Saturday,1,Dark - Lighted,Urban,Rain,1
+0,Utah,NAPLES,UINTAH (47),2022,Friday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,HURRICANE,WASHINGTON (53),2022,Saturday,1,Dark - Lighted,Urban,Clear,1
+0,Utah,THOMPSON SPRINGS,GRAND (19),2022,Friday,0,Dark - Not Lighted,Rural,Clear,1
+0,Utah,NORTH SALT LAKE,DAVIS (11),2022,Wednesday,1,Daylight,Urban,Rain,1
+0,Utah,SALT LAKE CITY,SALT LAKE (35),2022,Friday,1,Daylight,Urban,Clear,1
