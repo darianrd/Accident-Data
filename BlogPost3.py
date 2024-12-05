@@ -17,7 +17,7 @@ st.sidebar.header('Filter Data')
 
 with tab1:
     st.title('Variables in dataset')
-    st.markdown('city: City in Utah where crash took place<br>county: County in Utah where crash took place<br>year: Year crash took place<br>day_of_week: Day of week (Sunday-Saturday) on which crash occured<br>hospital: Whether passengers involved in crash were transported to hospital<br>lighting: How area of road was lit<br>population_type: What type of area crash took place in (Urban or Rural)<br>weather: Weather conditions at time of crash<br>fatalities: Number of fatalities resulting from crash', unsafe_allow_html = True)
+    st.markdown('city: City in Utah where crash took place<br>county: County in Utah where crash took place<br>year: Year crash took place<br>day_of_week: Day of week (Sunday-Saturday) on which crash occurred<br>hospital: Whether passengers involved in crash were transported to hospital<br>lighting: How area of road was lit<br>population_type: What type of area crash took place in (Urban or Rural)<br>weather: Weather conditions at time of crash<br>fatalities: Number of fatalities resulting from crash', unsafe_allow_html = True)
 
 with tab2:
     city = st.sidebar.multiselect('City', options = data['city'].unique(), default = [])
